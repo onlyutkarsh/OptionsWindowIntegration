@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionsWindowIntegration", "OptionsWindowIntegration.csproj", "{241454A5-949E-4700-B6A2-0DA5E16D58BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionsLibrary", "OptionsLibrary\OptionsLibrary.csproj", "{759737E3-40D3-4CA8-B2F8-12CD5C343DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241454A5-949E-4700-B6A2-0DA5E16D58BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241454A5-949E-4700-B6A2-0DA5E16D58BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241454A5-949E-4700-B6A2-0DA5E16D58BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241454A5-949E-4700-B6A2-0DA5E16D58BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759737E3-40D3-4CA8-B2F8-12CD5C343DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759737E3-40D3-4CA8-B2F8-12CD5C343DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759737E3-40D3-4CA8-B2F8-12CD5C343DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759737E3-40D3-4CA8-B2F8-12CD5C343DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
